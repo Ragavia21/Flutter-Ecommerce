@@ -15,6 +15,7 @@ This is a simple and user-friendly Flutter-based E-Commerce application. The app
 - Responsive design for both Android and iOS
 
 ---
+![order_placed](https://github.com/user-attachments/assets/b2156bb8-cc0f-4d71-b4f1-dcf562b896be)
 
 ## 🚀 Getting Started
 
