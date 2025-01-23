@@ -17,7 +17,7 @@ This is a simple and user-friendly Flutter-based E-Commerce application. The app
 ---
 ## ✨ Screenshots
 
-<img src="https://github.com/user-attachments/assets/2d0696ed-3433-454b-8050-b94077bc35a2" width="500" height="200"/>
+<img src="https://github.com/user-attachments/assets/2d0696ed-3433-454b-8050-b94077bc35a2" width="500" height="500"/>
 
 <img src="https://github.com/user-attachments/assets/5c7c4e48-cfbb-4daf-954c-05b70cbc6bdd" width="500"/>
 
