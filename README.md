@@ -42,4 +42,4 @@ This is a simple and user-friendly Flutter-based E-Commerce application. The app
 - Clone this repository:
   ```bash
   git clone https://github.com/Ragavia21/Flutter-Ecommerce.git
->>>>>>> 6527d0d89b45a1e56fc418c49dcfe141598b159f
+
