@@ -1,0 +1,41 @@
+name: ecommerce
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/product1.jpg
+    - assets/product2.jpg
+    - assets/product3.jpg
+    - assets/electronic1.jpg
+    - assets/electronic2.jpg
+    - assets/electronic3.jpg
+    - assets/electronic4.jpg
+    - assets/clothing1.jpg
+    - assets/clothing2.jpg
+    - assets/clothing3.jpg
+    - assets/clothing4.jpg
+    - assets/furniture1.jpg
+    - assets/furniture2.jpg
+    - assets/furniture3.jpg
+    - assets/furniture4.jpg
+    - assets/left_image.png
+
+
+
